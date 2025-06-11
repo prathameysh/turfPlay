@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@capacitor/cli": "^7.3.0",
+    "@capacitor/core": "^7.3.0",
     "@react-native-async-storage/async-storage": "1.18.2",
     "@react-native-picker/picker": "^2.4.10",
     "@react-navigation/native": "^6.1.7",

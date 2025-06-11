@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "26dec519-05c8-4351-be67-b8e5fecb7972"
+      }
+    },
+    "owner": "prathameshgavatre",
+    "android": {
+      "package": "com.prathameshgavatre.turfbookingfrontend"
+    }
+  }
+}
